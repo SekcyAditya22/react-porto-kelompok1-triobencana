@@ -1,4 +1,6 @@
--- Kelompok 1 Cloud Computing --
+-- Kelompok 8 Cloud Computing --
+
+-- Trio Bencana-- 
 
 Dibuat oleh Aditya & Muza & Gibran dengan React Js
 
