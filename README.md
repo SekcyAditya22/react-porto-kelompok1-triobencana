@@ -2,6 +2,6 @@
 
 Dibuat oleh Aditya & Muza & Gibran dengan React Js
 
-
+Dapat diakses juga di https://adityamadjid.shop
 
 
